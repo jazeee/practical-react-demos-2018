@@ -1,5 +1,20 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Some notes from class:
+1. This app uses a public API which is throttled.
+1. I added some code to handle this. See `Quotes` component.
+
+Future:
+1. Use github.com for API requests.
+1. Talk about `props`
+
+
+
+
+
+
+
+
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
